@@ -60,8 +60,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Krithika1627&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=378ADD&icon_color=378ADD" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Krithika1627&layout=compact&theme=tokyonight&hide_border=true&title_color=378ADD" />
+  <img height="180em" src="./profile/stats.svg" />
+  <img height="180em" src="./profile/langs.svg" />
 </div>
 
 <br/>
