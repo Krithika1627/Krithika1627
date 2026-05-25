@@ -20,7 +20,7 @@
 - 🌙 Exploring AI, backend systems & scalable apps
 - 💜 Open Source Contributor
 - 🛸 Currently building dev tools & full-stack projects
-- 📚 Interested in System Design, AI & App Development
+- 📚 Interested in System Design, AI & Development
 - ✨ Fun fact: I probably started another side project while writing this README
 
 ---
