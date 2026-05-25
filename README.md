@@ -52,13 +52,19 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krithika1627&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF"/>
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=Krithika1627&theme=midnight-purple&hide_border=true&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA"/>
+  <img src="https://github-readme-streak-stat-three.vercel.app?user=Krithika1627&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C792EA&ring=C792EA&fire=C792EA&currStreakLabel=C792EA&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=C792EA&v=4"/>
+</p>
+
+<p align="center">
+  <img src="https://githb-readme-stats-6qsb.vercel.app/api?username=Krithika1627&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Krithika1627&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krithika1627&theme=react-dark&hide_border=true&bg_color=0D1117&color=C792EA&line=BD93F9&point=FFFFFF"/>
 </p>
 
 ---
@@ -66,7 +72,7 @@
 # 💫 Consistency
 
 <p align="center">
-  <img width="75%" src="https://commitpulse.vercel.app/api/streak?user=Krithika1627&theme=dracula&cache_seconds=0"/>
+  <img src="https://commitpulse.vercel.app/api/streak?user=Krithika1627&theme=dracula&cache_seconds=0&v=5" alt="CommitPulse" />
 </p>
 
 ---
