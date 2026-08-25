@@ -5,7 +5,7 @@
 <h1 align="center">Hey 👋, I'm Krithika</h1>
 
 <p align="center">
-  <b>Creating dev tools nobody asked for 🪻</b>
+  <b></b>
 </p>
 
 <p align="center">
@@ -83,14 +83,6 @@
 - ⚙️ Backend architecture
 - 🌐 Open source contributions
 - 🧩 DSA & problem solving
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Krithika1627/Krithika1627/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
